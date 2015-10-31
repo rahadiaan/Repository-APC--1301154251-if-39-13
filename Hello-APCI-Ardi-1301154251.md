@@ -1,4 +1,4 @@
-# APCI-1301154251-if 39-13
+# APCI-1301154251-if 39-13.
 Teaser DAP
 Program sederhana menggunakan bahasa pemrograman pascal
   Program Hello;
@@ -7,3 +7,16 @@ Program sederhana menggunakan bahasa pemrograman pascal
             ClrScr;
             Writeln(‘Hello World’); //untuk mengeluarkan string ‘Hello World’ di layar
         End
+
+Program Hello; // ubah menjadi Program APCI-NIM
+            Uses Crt;
+            Begin
+                ClrScr;
+                Writeln(‘Hello’);//untuk mengeluarkan string ‘Hello’ di layar
+                Writeln(‘NIM’); //Ubah untuk menampilkan NIM Anda
+                Writeln(‘Nama’); //Ubah untuk menampilkan Nama Anda
+                Writeln(‘Kelas’); //Ubah untuk menampilkan Kelas Anda
+                Writeln(‘Asprak’); //Ubah untuk menampilkan Nama Asprak Anda
+                Writeln(‘NIM Teman’); //Ubah untuk menampilkan NIM teman anda
+                Writeln(‘Modul 10’); //Ubah untuk menampilkan string ‘Modul 6
+            End.
